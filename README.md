@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, я Павел 👋
 
-<!--
-**mazan-pavel/mazan-pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик (Vue / Nuxt). Встраиваю ИИ в веб-продукты: чаты, ассистенты по документам, виджеты для сайтов.
 
-Here are some ideas to get you started:
+## Стек
+Vue 3 · Nuxt 4 · TypeScript · Tailwind · shadcn-vue · Claude / OpenAI API · Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что делаю
+- AI-чаты со стримингом ответов
+- Ассистенты по документам (RAG)
+- Встраиваемые виджеты и интеграции с API
+
+## Проекты
+- [nuxt4-shadcn-starter](https://github.com/mazan-pavel/nuxt4-shadcn-starter): production-стартер на Nuxt 4
+- AI Chat на Nuxt: *скоро
+- Чат по документам (RAG): *скоро
+
+## Контакты
+Telegram: @p_mazan · Email: p.mazan@mail.ru
